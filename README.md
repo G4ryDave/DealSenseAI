@@ -4,7 +4,9 @@ DealSenseAI is an intelligent marketplace analyzer designed to identify optimal 
 
 **This project was created for educational purposes, specifically to explore AI orchestration, Agentic workflows, and related frameworks. It was built with the assistance of AI code completion. . Feel free to fork and develop it further!**
 
-## 📸 Screenshots
+## 📸 Screenshots & Video
+
+[DealSenseAI Video](src%2FDealSenseAI.mov)
 
 ![Command-line-interface.png](src%2FCommand-line-interface.png)
 
