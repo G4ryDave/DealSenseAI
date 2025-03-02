@@ -8,21 +8,6 @@ DealSenseAI is an intelligent marketplace analyzer designed to identify optimal 
 
 ![Command-line-interface.png](src%2FCommand-line-interface.png)
 
-## Table of Contents
-
-*   [Screenshots](#screenshots)
-*   [Features](#features)
-*   [Requirements](#requirements)
-*   [Installation](#installation)
-*   [Usage](#usage)
-*   [Architecture](#architecture)
-*   [Example Output](#example-output)
-*   [How It Works](#how-it-works)
-*   [Contributing](#contributing)
-*   [License](#license)
-*   [Future Improvements](#future-improvements)
-*   [Acknowledgements](#acknowledgements)
-
 ## 🚀 Features
 
 *   **Vinted Marketplace Scraping:** Automatically fetches and analyzes real-time listings from Vinted, using **web scraping** tools.
@@ -76,7 +61,7 @@ DealSenseAI employs a multi-agent AI system for analyzing Vinted listings, demon
 
 *   **Scraper Agent:** Extracts listing data from Vinted search results, using **web scraping techniques**.
 *   **Analysis Agent:** Evaluates item condition, price, and market position, employing **AI-powered data analysis**.
-*   **Market Search Agent: Automatically search online marketplace (such as Ebay and Amazon) for price comparison.
+*   **Market Search Agent:** Automatically search online marketplace (such as Ebay and Amazon) for price comparison.
 *   **Deal Evaluation Agent:** Calculates bargain potential and recommends negotiation strategies based on **Agentic pipeline information** gathering.
 *   **Report Generator:** Compiles findings into interactive HTML reports.
 
