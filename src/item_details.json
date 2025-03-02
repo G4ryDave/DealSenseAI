@@ -1,0 +1,523 @@
+{
+  "item": {
+    "id": 5692824710,
+    "title": "Ssd Samsung 860 evo 500gb",
+    "brand_id": 109048,
+    "size_id": null,
+    "status_id": 6,
+    "user_id": 60500078,
+    "country_id": 18,
+    "catalog_id": 3108,
+    "color1_id": 1,
+    "color2_id": null,
+    "package_size_id": 1,
+    "is_unisex": 0,
+    "moderation_status": 0,
+    "is_hidden": false,
+    "is_visible": true,
+    "is_closed": false,
+    "favourite_count": 23,
+    "active_bid_count": 14,
+    "description": "Vendo Ssd Samsung 860 evo 500gb nuovo mai aperto",
+    "package_size_standard": true,
+    "item_closing_action": null,
+    "related_catalog_ids": [],
+    "related_catalogs_enabled": false,
+    "size": "",
+    "brand": "Samsung",
+    "composition": "",
+    "extra_conditions": "",
+    "disposal_conditions": 4,
+    "is_for_sell": true,
+    "is_handicraft": false,
+    "is_processing": false,
+    "is_draft": false,
+    "is_reserved": false,
+    "label": "Samsung",
+    "original_price_numeric": "40.0",
+    "currency": "EUR",
+    "price_numeric": "40.0",
+    "last_push_up_at": "2025-01-22T12:23:31+01:00",
+    "created_at_ts": "2025-01-22T12:23:31+01:00",
+    "updated_at_ts": "2025-02-21T08:35:07+01:00",
+    "user_updated_at_ts": "2025-01-22T12:23:33+01:00",
+    "is_delayed_publication": false,
+    "photos": [
+      {
+        "id": 23058855096,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#4C4339",
+        "dominant_color_opaque": "#C9C7C4",
+        "url": "https://images1.vinted.net/t/03_00dc7_m8wZJ4BvzZXEkLZH1qWgWyfX/f800/1737545011.jpeg?s=35c6b0c26883cac0ec4648e8b795be19297371a4",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_00dc7_m8wZJ4BvzZXEkLZH1qWgWyfX/70x100/1737545011.jpeg?s=2292c1b9e6e9e9ef755ee0fc4ddf36abf049961c",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_00dc7_m8wZJ4BvzZXEkLZH1qWgWyfX/150x210/1737545011.jpeg?s=349f754c0909748de3d2cd2ca9907c14a47f35fd",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_00dc7_m8wZJ4BvzZXEkLZH1qWgWyfX/310x430/1737545011.jpeg?s=cc533ce5159c8d8898e49793f3a11c4f50c3088e",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_00dc7_m8wZJ4BvzZXEkLZH1qWgWyfX/f800/1737545011.jpeg?s=35c6b0c26883cac0ec4648e8b795be19297371a4",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_00dc7_m8wZJ4BvzZXEkLZH1qWgWyfX/f800/1737545011.jpeg?s=35c6b0c26883cac0ec4648e8b795be19297371a4",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_00dc7_m8wZJ4BvzZXEkLZH1qWgWyfX/f800/1737545011.jpeg?s=35c6b0c26883cac0ec4648e8b795be19297371a4",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_00dc7_m8wZJ4BvzZXEkLZH1qWgWyfX",
+          "timestamp": 1737545011,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_00dc7_m8wZJ4BvzZXEkLZH1qWgWyfX/1737545011.jpeg?s=c0fb4a9e3e2297df2a1327e5695014bb1e82f9ce",
+        "is_hidden": false,
+        "extra": {}
+      },
+      {
+        "id": 23058855102,
+        "image_no": 2,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#674F3A",
+        "dominant_color_opaque": "#D1CAC4",
+        "url": "https://images1.vinted.net/t/04_015f7_XJ5fmQMrrRxPRF1zF1Ls2VGE/f800/1737545011.jpeg?s=686d9816a938c40f1179d9b4110e2387ab6dfbdf",
+        "is_main": false,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_015f7_XJ5fmQMrrRxPRF1zF1Ls2VGE/70x100/1737545011.jpeg?s=8c9fbd0f7cecf18dc24090b26d527c8a149a7a11",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_015f7_XJ5fmQMrrRxPRF1zF1Ls2VGE/150x210/1737545011.jpeg?s=42e34abe017bbff190fda58077b7e8e2b862ce38",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_015f7_XJ5fmQMrrRxPRF1zF1Ls2VGE/310x430/1737545011.jpeg?s=6ba89297d3cd49416ddb0b495a8439475eb88065",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_015f7_XJ5fmQMrrRxPRF1zF1Ls2VGE/f800/1737545011.jpeg?s=686d9816a938c40f1179d9b4110e2387ab6dfbdf",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_015f7_XJ5fmQMrrRxPRF1zF1Ls2VGE/f800/1737545011.jpeg?s=686d9816a938c40f1179d9b4110e2387ab6dfbdf",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_015f7_XJ5fmQMrrRxPRF1zF1Ls2VGE/f800/1737545011.jpeg?s=686d9816a938c40f1179d9b4110e2387ab6dfbdf",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_015f7_XJ5fmQMrrRxPRF1zF1Ls2VGE",
+          "timestamp": 1737545011,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_015f7_XJ5fmQMrrRxPRF1zF1Ls2VGE/1737545011.jpeg?s=83c556a0cfb2a286a7bc693091f3bf9d7d9538cc",
+        "is_hidden": false,
+        "extra": {}
+      },
+      {
+        "id": 23058855107,
+        "image_no": 3,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#49392A",
+        "dominant_color_opaque": "#C8C4BF",
+        "url": "https://images1.vinted.net/t/04_01a98_7suC8ujd8eBefBE3wFeFqoE8/f800/1737545011.jpeg?s=e693fc4aa8d4cc513256ade6cd49b45fc013b58b",
+        "is_main": false,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01a98_7suC8ujd8eBefBE3wFeFqoE8/70x100/1737545011.jpeg?s=480623bcac132a3de4c28826aa9a1a570b223ed1",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01a98_7suC8ujd8eBefBE3wFeFqoE8/150x210/1737545011.jpeg?s=10343b95620bcf0f38d4b1b1828374c3e827c20f",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01a98_7suC8ujd8eBefBE3wFeFqoE8/310x430/1737545011.jpeg?s=6798bb0732b5909fc63e5638aabb94fc3b2e2aad",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01a98_7suC8ujd8eBefBE3wFeFqoE8/f800/1737545011.jpeg?s=e693fc4aa8d4cc513256ade6cd49b45fc013b58b",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01a98_7suC8ujd8eBefBE3wFeFqoE8/f800/1737545011.jpeg?s=e693fc4aa8d4cc513256ade6cd49b45fc013b58b",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01a98_7suC8ujd8eBefBE3wFeFqoE8/f800/1737545011.jpeg?s=e693fc4aa8d4cc513256ade6cd49b45fc013b58b",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01a98_7suC8ujd8eBefBE3wFeFqoE8",
+          "timestamp": 1737545011,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01a98_7suC8ujd8eBefBE3wFeFqoE8/1737545011.jpeg?s=ee23b82cccba695ca8da0e03bc3e91ddddac8a5f",
+        "is_hidden": false,
+        "extra": {}
+      }
+    ],
+    "can_be_sold": true,
+    "can_feedback": false,
+    "item_reservation_id": null,
+    "promoted_until": null,
+    "promoted_internationally": null,
+    "discount_price_numeric": null,
+    "author": null,
+    "book_title": null,
+    "isbn": null,
+    "measurement_width": null,
+    "measurement_length": null,
+    "measurement_unit": null,
+    "manufacturer": null,
+    "manufacturer_labelling": null,
+    "transaction_permitted": true,
+    "video_game_rating_id": null,
+    "item_attributes": [],
+    "haov_item?": false,
+    "collection_id": null,
+    "model_id": null,
+    "price": {
+      "amount": "40.0",
+      "currency_code": "EUR"
+    },
+    "discount_price": null,
+    "user": {
+      "id": 60500078,
+      "anon_id": "16e7b63b-5902-436c-98e1-5b828e1fa6d4",
+      "login": "tunesquad",
+      "birthday": null,
+      "country_id": 18,
+      "city_id": 168927,
+      "updated_on": 1736372465,
+      "real_name": null,
+      "email": null,
+      "country_code": "IT",
+      "feedback_count": 3,
+      "feedback_reputation": 1.0,
+      "moderator": false,
+      "business_account_id": null,
+      "can_bundle": true,
+      "business_account": null,
+      "business": false,
+      "photo": {
+        "id": 224152704,
+        "width": 600,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_003ef_GqnxhmqmHvsUbeDMDReDKRzN/f800/1735644611.jpeg?s=842584afda469f9e61bf83c534c6366baf53e3ce",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_003ef_GqnxhmqmHvsUbeDMDReDKRzN/310x310/1735644611.jpeg?s=1e8c509f4e9b336e85cfed49bf264474be989eb6",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_003ef_GqnxhmqmHvsUbeDMDReDKRzN/150x150/1735644611.jpeg?s=d4749426048e7f53bf5c8d41d1139c9f5ce00579",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_003ef_GqnxhmqmHvsUbeDMDReDKRzN/100x100/1735644611.jpeg?s=5c848f062006beb8838bbc39cce0ea207bcb1316",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_003ef_GqnxhmqmHvsUbeDMDReDKRzN/50x50/1735644611.jpeg?s=8be710c45965195dfc8b6ced429ad8e0342fdb92",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_003ef_GqnxhmqmHvsUbeDMDReDKRzN/20x20/1735644611.jpeg?s=8a430906e9cbc202955b19247dd48af019a27659",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_003ef_GqnxhmqmHvsUbeDMDReDKRzN",
+          "timestamp": 1735644611,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_003ef_GqnxhmqmHvsUbeDMDReDKRzN/1735644611.jpeg?s=9f8915a76d7fc24a75367597585be4f33adf4d6c",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "accepted_pay_in_methods": [
+        {
+          "id": 1,
+          "code": "CREDIT_CARD",
+          "requires_credit_card": true,
+          "event_tracking_code": "cc",
+          "icon": "credit-card",
+          "enabled": true,
+          "translated_name": "Bank card",
+          "note": "Your payment information will never be shared with the seller.",
+          "method_change_possible": true
+        },
+        {
+          "id": 11,
+          "code": "WALLET",
+          "requires_credit_card": false,
+          "event_tracking_code": "wallet",
+          "icon": "wallet",
+          "enabled": true,
+          "translated_name": "Vinted Balance",
+          "note": "",
+          "method_change_possible": false
+        }
+      ],
+      "can_view_profile": true,
+      "bundle_discount": {
+        "id": 36201424,
+        "user_id": 60500078,
+        "enabled": true,
+        "minimal_item_count": 2,
+        "fraction": "0.1",
+        "discounts": [
+          {
+            "minimal_item_count": 2,
+            "fraction": "0.1"
+          },
+          {
+            "minimal_item_count": 3,
+            "fraction": "0.15"
+          },
+          {
+            "minimal_item_count": 5,
+            "fraction": "0.2"
+          }
+        ]
+      },
+      "last_loged_on_ts": "2025-02-22T07:24:09+01:00",
+      "last_loged_on": "today 07:24 AM",
+      "item_count": 6,
+      "total_items_count": 10,
+      "followers_count": 2,
+      "following_count": 3,
+      "following_brands_count": 3,
+      "account_status": 0,
+      "positive_feedback_count": 3,
+      "neutral_feedback_count": 0,
+      "negative_feedback_count": 0,
+      "is_on_holiday": false,
+      "expose_location": true,
+      "city": "Monza",
+      "is_publish_photos_agreed": true,
+      "third_party_tracking": true,
+      "locale": "it-fr",
+      "profile_url": "https://www.vinted.it/member/60500078-tunesquad",
+      "share_profile_url": "https://www.vinted.it/member/60500078-tunesquad",
+      "is_online": false,
+      "fundraiser": null,
+      "localization": "none",
+      "is_bpf_price_prominence_applied": true,
+      "msg_template_count": 0,
+      "is_account_banned": false,
+      "account_ban_date": null,
+      "is_account_ban_permanent": false,
+      "seller_badges": [],
+      "is_favourite": false,
+      "is_hated": false,
+      "hates_you": false,
+      "contacts_permission": null,
+      "contacts": null,
+      "path": "/member/60500078-tunesquad",
+      "is_catalog_moderator": false,
+      "is_catalog_role_marketing_photos": false,
+      "hide_feedback": false,
+      "allow_direct_messaging": true,
+      "verification": {
+        "email": {
+          "valid": true,
+          "available": true
+        },
+        "facebook": {
+          "valid": true,
+          "verified_at": "2021-05-03T21:30:27+02:00",
+          "available": true
+        },
+        "google": {
+          "valid": false,
+          "verified_at": null,
+          "available": true
+        }
+      },
+      "avg_response_time": null,
+      "about": "",
+      "facebook_user_id": null,
+      "given_item_count": 4,
+      "taken_item_count": 1,
+      "has_ship_fast_badge": false,
+      "country_title_local": "Italy",
+      "country_iso_code": "IT",
+      "country_title": "Italy",
+      "default_address": null
+    },
+    "offline_verification": false,
+    "offline_verification_fee": null,
+    "service_fee": "2.7",
+    "total_item_price": "42.7",
+    "can_edit": false,
+    "can_delete": false,
+    "can_reserve": false,
+    "can_mark_as_sold": false,
+    "can_transfer": false,
+    "instant_buy": true,
+    "can_close": false,
+    "can_buy": true,
+    "can_bundle": true,
+    "can_ask_seller": true,
+    "can_favourite": false,
+    "user_login": "tunesquad",
+    "city_id": 168927,
+    "city": "Monza",
+    "country": "Italy",
+    "promoted": false,
+    "is_mobile": false,
+    "bump_badge_visible": false,
+    "brand_dto": {
+      "id": 109048,
+      "title": "Samsung",
+      "slug": "samsung",
+      "favourite_count": 18639,
+      "pretty_favourite_count": "18.6K",
+      "item_count": 362964,
+      "pretty_item_count": "363K",
+      "is_visible_in_listings": true,
+      "requires_authenticity_check": false,
+      "is_luxury": false,
+      "is_hvf": false,
+      "path": "/brand/109048-samsung",
+      "url": "https://www.vinted.it/brand/109048-samsung",
+      "is_favourite": false
+    },
+    "catalog_branch_title": "Electronics → Computer accessories → Accessories → Other computer accessories",
+    "path": "/items/5692824710-ssd-samsung-860-evo-500gb",
+    "url": "https://www.vinted.it/items/5692824710-ssd-samsung-860-evo-500gb",
+    "accepted_pay_in_methods": [
+      {
+        "id": 1,
+        "code": "CREDIT_CARD",
+        "requires_credit_card": true,
+        "event_tracking_code": "cc",
+        "icon": "credit-card",
+        "enabled": true,
+        "translated_name": "Bank card",
+        "note": "Your payment information will never be shared with the seller.",
+        "method_change_possible": true
+      }
+    ],
+    "created_at": "22/01 12:23 PM",
+    "color1": "Black",
+    "color2": null,
+    "size_title": "",
+    "description_attributes": [],
+    "video_game_rating": null,
+    "status": "New with tags",
+    "is_favourite": false,
+    "view_count": 248,
+    "performance": null,
+    "stats_visible": false,
+    "can_push_up": false,
+    "badge": null,
+    "size_guide_faq_entry_id": null,
+    "localization": "none",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "Samsung",
+      "second_line": "New with tags",
+      "accessibility_label": "Ssd Samsung 860 evo 500gb, brand: Samsung, condition: New with tags, 40.00 €"
+    }
+  },
+  "code": 0
+}
