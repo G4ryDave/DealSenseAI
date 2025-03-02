@@ -6,9 +6,12 @@ DealSenseAI is an intelligent marketplace analyzer designed to identify optimal 
 
 ## 📸 Screenshots & Video
 
-[DealSenseAI Video](src%2FDealSenseAI.mov)
+![DealSenseAIGIF.gif](src%2FDealSenseAIGIF.gif)
 
 ![Command-line-interface.png](src%2FCommand-line-interface.png)
+
+[FullHD DealSenseAI Video](src%2FDealSenseAI.mov)
+
 
 ## 🚀 Features
 
